@@ -8,5 +8,8 @@ la edad actual de erick es 40 años
 
 este es una linea desde noteblock
 
+esta es una linea desde visual estudio code
+
+
 
 xxxxxxxxxxxxxx
