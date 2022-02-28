@@ -6,8 +6,6 @@ en 2015 chyron se muda al virtual
 
 la edad actual de erick es 40 años
 
-este es una linea desde noteblock
-
 esta es una linea desde visual estudio code
 
 hoy domingo se puso a estudiar en platzi
